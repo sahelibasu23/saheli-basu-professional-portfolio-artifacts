@@ -9,8 +9,7 @@
 
 **Assessment Systems | Quality Governance | Applied AI | Learning Design**
 
-**Saheli Basu | Systems Thinking & Professional Frameworks**
-
+A collection of systems-oriented frameworks, evaluation models, and learning design artifacts demonstrating structured approaches to professional capability building.
 
 ---
 
@@ -111,6 +110,6 @@ Knowledge Management | Professional Publishing | Systems Thinking
 
 ---
 
-Created by Saheli Basu
+**Created by Saheli Basu**
 
 Learning & Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
