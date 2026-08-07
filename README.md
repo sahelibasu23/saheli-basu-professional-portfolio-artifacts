@@ -1,5 +1,21 @@
 # Saheli Basu | Professional Portfolio Artifacts
 
+<p align="center">
+  <img src="./Professional_Frameworks_Portfolio_Artifacts_1280x640.jpg" alt="Professional Frameworks and Portfolio Artifacts" width="100%">
+</p>
+
+
+## Professional Frameworks & Portfolio Artifacts
+
+**Assessment Systems | Quality Governance | Applied AI | Learning Design**
+
+**Saheli Basu | Systems Thinking & Professional Frameworks**
+
+
+---
+
+## About This Portfolio
+
 A collection of professional frameworks, systems approaches, and learning design artifacts focused on:
 
 - Learning & Assessment Systems
@@ -8,7 +24,7 @@ A collection of professional frameworks, systems approaches, and learning design
 - Applied AI Evaluation
 - Knowledge Management
 
-These artifacts demonstrate approaches to transforming expertise into structured frameworks, practical workflows, and scalable professional learning systems.
+These artifacts demonstrate approaches for transforming expertise into structured frameworks, practical workflows, and scalable professional learning systems.
 
 ---
 
