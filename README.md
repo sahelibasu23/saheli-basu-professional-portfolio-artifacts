@@ -83,7 +83,7 @@ Knowledge Management | Professional Publishing | Systems Thinking
 
 ### LinkedIn Services
 
-[View LinkedIn Services Page](YOUR_LINKEDIN_SERVICE_PAGE_LINK)
+[View LinkedIn Services Page](https://www.linkedin.com/services/page/36843430b418961488)
 
 
 ### Contra Profile
