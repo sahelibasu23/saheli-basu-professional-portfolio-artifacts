@@ -1,8 +1,8 @@
-\# SysteMetic: Professional Learning \& Knowledge Systems Initiative
+# SysteMetic: Professional Learning & Knowledge Systems Initiative
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,23 +10,23 @@ An independent professional learning initiative focused on transforming expertis
 
 
 
-\## Focus Areas
+## Focus Areas
 
 
 
-\- Learning Design
+- Learning Design
 
-\- Curriculum Development
+- Curriculum Development
 
-\- Knowledge Management
+- Knowledge Management
 
-\- Professional Publishing
+- Professional Publishing
 
-\- Systems Thinking
+- Systems Thinking
 
 
 
-\## Approach
+## Approach
 
 
 
@@ -42,7 +42,7 @@ through learning resources, frameworks, and knowledge systems.
 
 
 
-\## Value
+## Value
 
 
 
@@ -50,17 +50,17 @@ The initiative demonstrates approaches for:
 
 
 
-\- organizing professional knowledge
+- organizing professional knowledge
 
-\- designing learning resources
+- designing learning resources
 
-\- developing practical frameworks
+- developing practical frameworks
 
-\- supporting capability building
+- supporting capability building
 
 
 
-\## Artifact
+## Artifact
 
 
 
@@ -72,5 +72,5 @@ Created by Saheli Basu
 
 
 
-Learning \& Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
+Learning & Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
 
