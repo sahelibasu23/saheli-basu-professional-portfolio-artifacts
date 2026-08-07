@@ -1,8 +1,8 @@
-\# Quality Governance Framework for Scalable Operations
+# Quality Governance Framework for Scalable Operations
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,23 +10,23 @@ A governance-led framework designed to improve how quality issues are identified
 
 
 
-\## Focus Areas
+## Focus Areas
 
 
 
-\- Quality Governance
+- Quality Governance
 
-\- Workflow Design
+- Workflow Design
 
-\- Process Improvement
+- Process Improvement
 
-\- Operational Excellence
+- Operational Excellence
 
-\- Incident Management
+- Incident Management
 
 
 
-\## Approach
+## Approach
 
 
 
@@ -42,7 +42,7 @@ to create structured pathways for quality management and continuous improvement.
 
 
 
-\## Value
+## Value
 
 
 
@@ -50,19 +50,19 @@ This approach supports organizations by improving:
 
 
 
-\- operational visibility
+- operational visibility
 
-\- accountability
+- accountability
 
-\- decision traceability
+- decision traceability
 
-\- resolution consistency
+- resolution consistency
 
-\- continuous learning
+- continuous learning
 
 
 
-\## Artifact
+## Artifact
 
 
 
@@ -74,5 +74,5 @@ Created by Saheli Basu
 
 
 
-Learning \& Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
+Learning & Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
 
