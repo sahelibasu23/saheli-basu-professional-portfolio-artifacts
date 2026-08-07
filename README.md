@@ -7,7 +7,7 @@
 
 ## Professional Frameworks & Portfolio Artifacts
 
-**Assessment Systems | Quality Governance | Applied AI | Learning Design**
+**Assessment Systems** | **Quality Governance** | **Applied AI** | **Learning Design**
 
 A collection of systems-oriented frameworks, evaluation models, and learning design artifacts demonstrating structured approaches to professional capability building.
 
@@ -33,7 +33,7 @@ These artifacts demonstrate approaches for transforming expertise into structure
 
 A governance-led approach for improving quality visibility, accountability, workflow traceability, and continuous improvement.
 
-Focus:
+**Focus:**
 Quality Governance | Process Improvement | Operational Excellence
 
 - 🚀 [View Artifact](./01-quality-governance-framework/)
@@ -47,7 +47,7 @@ Quality Governance | Process Improvement | Operational Excellence
 
 A framework for translating professional competencies into measurable assessment systems.
 
-Focus:
+**Focus:**
 Assessment Design | Competency Frameworks | Learning Measurement
 
 - 🚀 [View Artifact](./02-competency-based-assessment-systems/)
@@ -61,7 +61,7 @@ Assessment Design | Competency Frameworks | Learning Measurement
 
 An instructional design approach connecting learning objectives, activities, assessment, and workplace application.
 
-Focus:
+**Focus:**
 Instructional Design | Curriculum Architecture | Learning Experience Design
 
 - 🚀 [View Artifact](./03-professional-learning-experiences/)
@@ -75,7 +75,7 @@ Instructional Design | Curriculum Architecture | Learning Experience Design
 
 An evaluation framework for responsible adoption of AI-supported learning workflows.
 
-Focus:
+**Focus:**
 Responsible AI | Human-in-the-Loop Design | Learning Technology
 
 - 🚀 [View Artifact](./04-ai-assisted-learning-workflow-evaluation/)
@@ -89,7 +89,7 @@ Responsible AI | Human-in-the-Loop Design | Learning Technology
 
 An independent initiative exploring how expertise can become structured learning resources, frameworks, and capability-building systems.
 
-Focus:
+**Focus:**
 Knowledge Management | Professional Publishing | Systems Thinking
 
 - 🚀 [View Artifact](./05-systemetic-learning-knowledge-systems/)
