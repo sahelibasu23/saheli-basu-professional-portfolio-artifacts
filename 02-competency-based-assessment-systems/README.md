@@ -1,8 +1,8 @@
-\# Designing Competency-Based Assessment Systems
+# Designing Competency-Based Assessment Systems
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,23 +10,23 @@ A framework for translating professional competencies into measurable assessment
 
 
 
-\## Focus Areas
+## Focus Areas
 
 
 
-\- Assessment Systems
+- Assessment Systems
 
-\- Competency Frameworks
+- Competency Frameworks
 
-\- Skills Architecture
+- Skills Architecture
 
-\- Learning Measurement
+- Learning Measurement
 
-\- Quality Assurance
+- Quality Assurance
 
 
 
-\## Approach
+## Approach
 
 
 
@@ -42,7 +42,7 @@ to support aligned and reliable assessment design.
 
 
 
-\## Value
+## Value
 
 
 
@@ -50,17 +50,17 @@ This approach helps organizations:
 
 
 
-\- define capability expectations
+- define capability expectations
 
-\- design structured assessments
+- design structured assessments
 
-\- improve measurement quality
+- improve measurement quality
 
-\- create scalable evaluation processes
+- create scalable evaluation processes
 
 
 
-\## Artifact
+## Artifact
 
 
 
@@ -72,5 +72,5 @@ Created by Saheli Basu
 
 
 
-Learning \& Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
+Learning & Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
 
