@@ -1,8 +1,8 @@
-\# Designing Professional Learning Experiences
+# Designing Professional Learning Experiences
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,23 +10,23 @@ An instructional design approach for transforming complex professional knowledge
 
 
 
-\## Focus Areas
+## Focus Areas
 
 
 
-\- Instructional Design
+- Instructional Design
 
-\- Learning Experience Design
+- Learning Experience Design
 
-\- Curriculum Architecture
+- Curriculum Architecture
 
-\- Learning Content Development
+- Learning Content Development
 
-\- Assessment Alignment
+- Assessment Alignment
 
 
 
-\## Approach
+## Approach
 
 
 
@@ -42,7 +42,7 @@ to help learners move from knowledge acquisition to practical capability.
 
 
 
-\## Value
+## Value
 
 
 
@@ -50,17 +50,17 @@ This approach supports:
 
 
 
-\- clearer learning journeys
+- clearer learning journeys
 
-\- meaningful practice opportunities
+- meaningful practice opportunities
 
-\- assessment alignment
+- assessment alignment
 
-\- workplace application
+- workplace application
 
 
 
-\## Artifact
+## Artifact
 
 
 
@@ -72,5 +72,5 @@ Created by Saheli Basu
 
 
 
-Learning \& Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
+Learning & Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
 
