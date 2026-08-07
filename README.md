@@ -37,10 +37,10 @@ A governance-led approach for improving quality visibility, accountability, work
 Focus:
 Quality Governance | Process Improvement | Operational Excellence
 
-- [View Artifact](./01-quality-governance-framework/)
-- [View PDF](./01-quality-governance-framework/quality-governance-framework.pdf)
-- [Request Service on Contra](https://contra.com/s/bAYgPrg2-quality-governance-and-process-improvement-frameworks)
-- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
+- 🚀 [View Artifact](./01-quality-governance-framework/)
+- 📄 [View PDF](./01-quality-governance-framework/quality-governance-framework.pdf)
+- 💼 [Request Service on Contra](https://contra.com/s/bAYgPrg2-quality-governance-and-process-improvement-frameworks)
+- 🔗 [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
@@ -51,10 +51,10 @@ A framework for translating professional competencies into measurable assessment
 Focus:
 Assessment Design | Competency Frameworks | Learning Measurement
 
-- [View Artifact](./02-competency-based-assessment-systems/)
-- [View PDF](./02-competency-based-assessment-systems/competency-assessment-system.pdf)
-- [Request Service on Contra](https://contra.com/s/cY37UMFo-assessment-system-design-and-quality-frameworks)
-- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
+- 🚀 [View Artifact](./02-competency-based-assessment-systems/)
+- 📄 [View PDF](./02-competency-based-assessment-systems/competency-assessment-system.pdf)
+- 💼 [Request Service on Contra](https://contra.com/s/cY37UMFo-assessment-system-design-and-quality-frameworks)
+- 🔗 [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
@@ -65,10 +65,10 @@ An instructional design approach connecting learning objectives, activities, ass
 Focus:
 Instructional Design | Curriculum Architecture | Learning Experience Design
 
-- [View Artifact](./03-professional-learning-experiences/)
-- [View PDF](./03-professional-learning-experiences/learning-experience-design.pdf)
-- [Request Service on Contra](https://contra.com/s/oAeqE2ZO-learning-experience-design-and-curriculum-architecture)
-- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
+- 🚀 [View Artifact](./03-professional-learning-experiences/)
+- 📄 [View PDF](./03-professional-learning-experiences/learning-experience-design.pdf)
+- 💼 [Request Service on Contra](https://contra.com/s/oAeqE2ZO-learning-experience-design-and-curriculum-architecture)
+- 🔗 [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
@@ -79,10 +79,10 @@ An evaluation framework for responsible adoption of AI-supported learning workfl
 Focus:
 Responsible AI | Human-in-the-Loop Design | Learning Technology
 
-- [View Artifact](./04-ai-assisted-learning-workflow-evaluation/)
-- [View PDF](./04-ai-assisted-learning-workflow-evaluation/ai-learning-workflow-evaluation.pdf)
-- [Request Service on Contra](https://contra.com/s/ROWc7Y3B-ai-workflow-evaluation-and-human-in-the-loop-design)
-- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
+- 🚀 [View Artifact](./04-ai-assisted-learning-workflow-evaluation/)
+- 📄 [View PDF](./04-ai-assisted-learning-workflow-evaluation/ai-learning-workflow-evaluation.pdf)
+- 💼 [Request Service on Contra](https://contra.com/s/ROWc7Y3B-ai-workflow-evaluation-and-human-in-the-loop-design)
+- 🔗 [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
@@ -93,20 +93,20 @@ An independent initiative exploring how expertise can become structured learning
 Focus:
 Knowledge Management | Professional Publishing | Systems Thinking
 
-- [View Artifact](./05-systemetic-learning-knowledge-systems/)
-- [View PDF](./05-systemetic-learning-knowledge-systems/systemetic-framework.pdf)
-- [Request Service on Contra](https://contra.com/saheli_basu_ii72r1bo/services?r=saheli_basu_ii72r1bo)
-- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
+- 🚀 [View Artifact](./05-systemetic-learning-knowledge-systems/)
+- 📄 [View PDF](./05-systemetic-learning-knowledge-systems/systemetic-framework.pdf)
+- 💼 [Request Service on Contra](https://contra.com/saheli_basu_ii72r1bo/services?r=saheli_basu_ii72r1bo)
+- 🔗 [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
 ## Connect With Me
 
-- ### Portfolio Website: [Visit Portfolio](https://sahelibasu23.github.io)
-- ### LinkedIn Profile: [Visit LinkedIn Profile](https://www.linkedin.com/in/saheli-basu/)
-- ### LinkedIn Services: [View LinkedIn Services Page](https://www.linkedin.com/services/page/36843430b418961488)
-- ### Contra Profile: [Visit Contra Profile](https://contra.com/saheli_basu_ii72r1bo/work?r=saheli_basu_ii72r1bo)
-- ### Contra Services: [View Contra Services](https://contra.com/saheli_basu_ii72r1bo/services?r=saheli_basu_ii72r1bo)
+- 🌐 ### Portfolio Website: [Visit Portfolio](https://sahelibasu23.github.io)
+- 💼 ### LinkedIn Profile: [Visit LinkedIn Profile](https://www.linkedin.com/in/saheli-basu/)
+- 🚀 ### LinkedIn Services: [View LinkedIn Services Page](https://www.linkedin.com/services/page/36843430b418961488)
+- ✨ ### Contra Profile: [Visit Contra Profile](https://contra.com/saheli_basu_ii72r1bo/work?r=saheli_basu_ii72r1bo)
+- 🛠️ ### Contra Services: [View Contra Services](https://contra.com/saheli_basu_ii72r1bo/services?r=saheli_basu_ii72r1bo)
 
 
 ---
