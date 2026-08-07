@@ -21,7 +21,10 @@ A governance-led approach for improving quality visibility, accountability, work
 Focus:
 Quality Governance | Process Improvement | Operational Excellence
 
-[View Artifact](./01-quality-governance-framework/)
+- [View Artifact](./01-quality-governance-framework/)
+- [View PDF](./01-quality-governance-framework/quality-governance-framework.pdf)
+- [Request Service on Contra](YOUR_CONTRA_SERVICE_LINK)
+- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
@@ -32,7 +35,10 @@ A framework for translating professional competencies into measurable assessment
 Focus:
 Assessment Design | Competency Frameworks | Learning Measurement
 
-[View Artifact](./02-competency-based-assessment-systems/)
+- [View Artifact](./02-competency-based-assessment-systems/)
+- [View PDF](./02-competency-based-assessment-systems/competency-assessment-system.pdf)
+- [Request Service on Contra](YOUR_CONTRA_SERVICE_LINK)
+- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
@@ -43,7 +49,10 @@ An instructional design approach connecting learning objectives, activities, ass
 Focus:
 Instructional Design | Curriculum Architecture | Learning Experience Design
 
-[View Artifact](./03-professional-learning-experiences/)
+- [View Artifact](./03-professional-learning-experiences/)
+- [View PDF](./03-professional-learning-experiences/learning-experience-design.pdf)
+- [Request Service on Contra](YOUR_CONTRA_SERVICE_LINK)
+- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
@@ -54,7 +63,10 @@ An evaluation framework for responsible adoption of AI-supported learning workfl
 Focus:
 Responsible AI | Human-in-the-Loop Design | Learning Technology
 
-[View Artifact](./04-ai-assisted-learning-workflow-evaluation/)
+- [View Artifact](./04-ai-assisted-learning-workflow-evaluation/)
+- [View PDF](./04-ai-assisted-learning-workflow-evaluation/ai-learning-workflow-evaluation.pdf)
+- [Request Service on Contra](YOUR_CONTRA_SERVICE_LINK)
+- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
@@ -65,7 +77,10 @@ An independent initiative exploring how expertise can become structured learning
 Focus:
 Knowledge Management | Professional Publishing | Systems Thinking
 
-[View Artifact](./05-systemetic-learning-knowledge-systems/)
+- [View Artifact](./05-systemetic-learning-knowledge-systems/)
+- [View PDF](./05-systemetic-learning-knowledge-systems/systemetic-framework.pdf)
+- [Request Service on Contra](YOUR_CONTRA_SERVICE_LINK)
+- [Request Service on LinkedIn](https://www.linkedin.com/services/page/36843430b418961488/)
 
 ---
 
