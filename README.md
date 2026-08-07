@@ -69,11 +69,35 @@ Knowledge Management | Professional Publishing | Systems Thinking
 
 ---
 
-## About
+## Connect With Me
+
+### Portfolio Website
+
+[Visit Portfolio](https://sahelibasu23.github.io)
+
+
+### LinkedIn Profile
+
+[Visit LinkedIn Profile](https://www.linkedin.com/in/saheli-basu/)
+
+
+### LinkedIn Services
+
+[View LinkedIn Services Page](YOUR_LINKEDIN_SERVICE_PAGE_LINK)
+
+
+### Contra Profile
+
+[Visit Contra Profile](https://contra.com/saheli_basu_ii72r1bo/work?r=saheli_basu_ii72r1bo)
+
+
+### Contra Services
+
+[View Contra Services](https://contra.com/saheli_basu_ii72r1bo/services?r=saheli_basu_ii72r1bo)
+
+
+---
 
 Created by Saheli Basu
 
 Learning & Assessment Systems | Instructional Design | Quality Governance | Applied AI Evaluation
-
-Website:
-https://sahelibasu23.github.io
